@@ -1,3 +1,0 @@
-# desafio_tripulaciones
-
-HOLA
